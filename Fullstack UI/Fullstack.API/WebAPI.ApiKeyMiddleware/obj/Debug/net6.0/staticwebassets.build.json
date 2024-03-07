@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EEsVEKQ4bGxlQBTU3Bs2nnro4mk1jl5Sx8StTvFN7lQ=",
+  "Source": "WebAPI.ApiKeyMiddleware",
+  "BasePath": "_content/WebAPI.ApiKeyMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

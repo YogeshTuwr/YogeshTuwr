@@ -1,0 +1,17 @@
+<div class="container my-5">
+    <h1 class="my-3"> Add Employee</h1>
+        <div Calss="row">
+            <div class="col-6">
+                <form #form="ngForm" (ngSubmit)="addDepartment()">
+                    <div class="mb-3">
+                      <label for="Name" class="form-label">name</label>
+                      <input type="text" class="form-control" id="Name" name="name" [(ngModel)] ="AddDepartmentReq.departmentName">
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                  </form>  
+            </div>
+        </div>
+  
+        
+</div>

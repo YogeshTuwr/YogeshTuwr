@@ -1,0 +1,22 @@
+<div class="container my-5">
+    <h1 class="my-3"> Add Employee</h1>
+        <div Calss="row">
+            <div class="col-6">
+                <form #form="ngForm" (ngSubmit)="UpdateDepartment()">
+                    <div class="mb-3">
+                        <label for="Name" class="form-label">id</label>
+                        <input type="text" class="form-control" id="Id" name="id" [(ngModel)] ="departmentDetails.id" readonly>
+                      </div>
+                    <div class="mb-3">
+                      <label for="Name" class="form-label">DepartmentName</label>
+                      <input type="text" class="form-control" id="departmentName" name="departmentName" [(ngModel)] ="departmentDetails.departmentName">
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary mr-5">Submit</button>
+                    <button type="button" class="btn btn-danger" (click)="deletedepartment(departmentDetails.id)">Delete</button>
+                  </form>  
+            </div>
+        </div>
+  
+        
+</div>

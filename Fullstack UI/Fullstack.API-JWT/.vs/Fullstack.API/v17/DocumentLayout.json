@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\migrations\\20240124114835_v1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:migrations\\20240124114835_v1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\migrations\\20240121102857_v1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:migrations\\20240121102857_v1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|d:\\sw\\angular 21\\fullstack ui\\fullstack.api-jwt\\migrations\\20240118102131_intital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4CE2A4-40D9-49FF-87A8-949E981E3592}|Fullstack.API.csproj|solutionrelative:migrations\\20240118102131_intital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T11:42:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T11:21:41.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T06:02:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FullStackDbContext.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Data\\FullStackDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\FullStackDbContext.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Data\\FullStackDbContext.cs",
+              "RelativeToolTip": "Data\\FullStackDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:58:16.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:50:43.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:32:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240124114835_V1.1.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240124114835_V1.1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240124114835_V1.1.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240124114835_V1.1.cs",
+              "RelativeToolTip": "Migrations\\20240124114835_V1.1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:20:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240121102857_V1.0.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240121102857_V1.0.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240121102857_V1.0.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240121102857_V1.0.cs",
+              "RelativeToolTip": "Migrations\\20240121102857_V1.0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:20:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240118102131_Intital.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240118102131_Intital.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240118102131_Intital.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Migrations\\20240118102131_Intital.cs",
+              "RelativeToolTip": "Migrations\\20240118102131_Intital.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:19:40.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SW\\Angular 21\\Fullstack UI\\Fullstack.API-JWT\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:17:33.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<div class="container">
+
+    <table class="width:100%">
+        <tr>
+            <td>
+                <h1 class="nb-3">Employees List</h1>
+            </td>
+            <td class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini">
+                <a routerLink="/employees/add">Add</a>
+            </td>
+
+        </tr>
+    </table>
+
+
+
+   
+    <table class="table" *ngIf="employees && employees.length > 0">
+        <thead>
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Email</th>
+                <th>Mobile</th>
+                <th>Salary</th>
+                <th>Department</th>
+                <td> </td>
+            </tr>
+        </thead>
+    <tbody>
+        <tr *ngFor="let record of employees">
+            <td>{{ record.id }}</td>
+            <td>{{ record.name }}</td>
+            <td>{{ record.email }}</td>
+            <td>{{ record.phone }}</td>
+            <td>{{ record.salary }}</td>
+            <td>{{ record.department }}</td>
+            <td><a [routerLink]="['/employees','edit',record.id]">View</a></td>
+            
+
+        </tr>
+    </tbody>
+    </table>
+    <p  *ngIf="!employees || employees.length == 0">No Record(s) Found.</p>
+
+</div>
